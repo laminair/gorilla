@@ -16,4 +16,4 @@ simple-colors
 cryptography
 waitress==3.0.0
 yarg==0.1.9
-questionary==2.0.1
+questionary==2.1.1
